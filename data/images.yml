@@ -1,0 +1,40 @@
+# DO NOT CHANGE
+version: 3
+coins:
+  heads:
+    - https://cdn.discordapp.com/attachments/936977511592628254/937075572755017848/heads.png
+  tails:
+    - https://cdn.discordapp.com/attachments/936977511592628254/937075572973137950/tails.png
+currency:
+  - https://cdn.discordapp.com/attachments/957528908159410176/958024650481356870/currency_image.png
+  - https://cdn.discordapp.com/attachments/957528908159410176/958024650246488134/currency_image-1.png
+  - https://cdn.discordapp.com/attachments/957528908159410176/958024649965461595/currency_image-2.png
+  - https://cdn.discordapp.com/attachments/957528908159410176/958024649697013770/currency_image-3.png
+dice:
+  - https://cdn.nadeko.bot/other/dice/0.png
+  - https://cdn.nadeko.bot/other/dice/1.png
+  - https://cdn.nadeko.bot/other/dice/2.png
+  - https://cdn.nadeko.bot/other/dice/3.png
+  - https://cdn.nadeko.bot/other/dice/4.png
+  - https://cdn.nadeko.bot/other/dice/5.png
+  - https://cdn.nadeko.bot/other/dice/6.png
+  - https://cdn.nadeko.bot/other/dice/7.png
+  - https://cdn.nadeko.bot/other/dice/8.png
+  - https://cdn.nadeko.bot/other/dice/9.png
+rategirl:
+  matrix: https://cdn.nadeko.bot/other/rategirl/matrix.png
+  dot: https://cdn.nadeko.bot/other/rategirl/dot.png
+xp:
+  bg: https://cdn.discordapp.com/attachments/933448539856568360/958412071043756103/lvlcard.png
+rip:
+  bg: https://cdn.nadeko.bot/other/rip/rip.png
+  overlay: https://cdn.nadeko.bot/other/rip/overlay.png
+slots:
+  emojis:
+    - https://cdn.nadeko.bot/slots/0.png
+    - https://cdn.nadeko.bot/slots/1.png
+    - https://cdn.nadeko.bot/slots/2.png
+    - https://cdn.nadeko.bot/slots/3.png
+    - https://cdn.nadeko.bot/slots/4.png
+    - https://cdn.nadeko.bot/slots/5.png
+  bg: https://i.imgur.com/fefYesf.png
